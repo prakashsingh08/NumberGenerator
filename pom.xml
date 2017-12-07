@@ -34,7 +34,7 @@
 		<repository>
 		<id>InternalSnapshots</id>
 		<name>Internal Snapshots</name>
-		<url>http://192.168.99.101:32769/nexus/content/repositories/snapshots/</url>
+		<url>http://192.168.99.101:9898/nexus/content/repositories/snapshots/</url>
 		</repository>
         </distributionManagement>
 
